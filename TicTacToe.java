@@ -10,7 +10,7 @@ public class TicTacToe {
         Scanner in = new Scanner(System.in);
 
         System.out.println("              TIC-TAC-TOE");
-        System.out.println("CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY");
+        System.out.println("CREATIVE COMPUTING  ");
         System.out.println("\nTHE BOARD IS NUMBERED: ");
         System.out.println(" 1  2  3\n 4  5  6\n 7  8  9\n");
 
