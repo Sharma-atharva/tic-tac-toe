@@ -16,7 +16,7 @@ public class TicTacToe {
 
         while (true) {
             // ask if the player wants to be X or O and if their input is valid set their
-            // play piece as such
+            //
             System.out.println("DO YOU WANT 'X' OR 'O'");
             while (true) {
                 try {
@@ -110,7 +110,7 @@ public class TicTacToe {
 
                             if (input == 'Y' || input == 'y') {
                                 break;
-                            } else if (input == 'N' || input == 'n') {
+                            } else if (input == 'N' || input == 'N') {
                                 System.exit(0);
                             } else {
                                 System.out.println("THAT'S NOT 'Y' OR 'N', TRY AGAIN");
